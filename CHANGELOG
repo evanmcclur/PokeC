@@ -1,0 +1,19 @@
+9/2/22 11:00:00 AM - Wrote initial logic
+9/4/22 9:35:02 PM - Adding logic for creating and connecting roads
+9/13/22 9:35:02 AM - Adding logic for visiting new maps
+9/14/22 10:35:02 AM - Added randomization for pokecenter and pokemart
+9/18/22 6:43:10 PM - Added player to world
+9/20/22 10:10:04 AM - Started path finding (pain)
+9/21/22 6:10:04 PM - Added more to path finding
+9/26/22 10:01:24 AM - Rewrote logic for checking all 8 directions (still getting errors)
+9/27/22 7:08:14 PM - Continued rewriting and debugging logic for checking all 8 directions (still getting errors)
+9/28/22 10:20:47 AM - Finally got pathfinding working and printing
+9/30/22 4:24:45 PM - Added numtrainers command line argument support and starting adding new trainers
+10/2/22 9:02:55 AM - Added all trainer movements
+10/16/22 6:25:55 PM - Added ncurses and color to map
+10/17/22 10:25:17 AM - Added all player movement commands and battle functionality
+10/18/22 2:42:03 AM - Added building functionality and trainer list (need to fix)
+10/19/22 7:04:32 PM - Fixed trainer list
+10/24/22 3:21:07 PM - Starting rewriting code in C++
+10/25/22 2:42:23 PM - Finished rewrite, started working on new features. Added the ability to walk through exits
+10/26/22 6:54:52 PM - Added fly command
